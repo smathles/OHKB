@@ -17,8 +17,10 @@ At this stage, I do *not* have LED indicators or digital displays to show layer 
 
 Wiring Diagram + Pro Micro wiring ideas:
 
-- pic 
+![image](https://github.com/user-attachments/assets/c0bebc20-9476-48ce-8f25-5d49259b93cc)
 
-- pic
+![image](https://github.com/user-attachments/assets/e114a9fe-7350-46a6-863f-9d5e23d94a9a)
 
-- pic
+![image](https://github.com/user-attachments/assets/a63e2151-dd35-46a4-bf7f-bb1377fc8c9b) ![image](https://github.com/user-attachments/assets/d768d07a-7470-444f-a9ca-2aad14a6648e)
+
+
