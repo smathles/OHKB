@@ -28,5 +28,18 @@ Looks like UHK is also copying Dygma's thumb cluster design now!
 ![image](https://github.com/user-attachments/assets/0eeba1a4-3271-4a6e-bd69-98038079450b)
 Well, good designs should be imitated/modified! But will mine be better or worse...?
 
+Also firmware/keymaps/layers/microcontroller pins work is being done, albeit in my qmk fork. I might copy it over here later when it's more mature.
+
+In the meantime, here's a CAD update:
+
+Overall:
+![2025_13:32:54](https://github.com/user-attachments/assets/9dd47040-1fee-4582-89a2-83b8d14b90ae)
+
+Sectional:
+![image](https://github.com/user-attachments/assets/868d9ced-273a-415c-878d-cdb43549efc9)
+
+
+
+
 
 
