@@ -23,4 +23,10 @@ Wiring Diagram + Pro Micro wiring ideas:
 
 ![image](https://github.com/user-attachments/assets/a63e2151-dd35-46a4-bf7f-bb1377fc8c9b) ![image](https://github.com/user-attachments/assets/d768d07a-7470-444f-a9ca-2aad14a6648e)
 
+## 2025/01/03
+Looks like UHK is also copying Dygma's thumb cluster design now!
+![image](https://github.com/user-attachments/assets/0eeba1a4-3271-4a6e-bd69-98038079450b)
+Well, good designs should be imitated/modified! But will mine be better or worse...?
+
+
 
