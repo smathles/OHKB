@@ -39,6 +39,13 @@ Sectional:
 ![image](https://github.com/user-attachments/assets/868d9ced-273a-415c-878d-cdb43549efc9)
 
 
+## 2025/01/06
+Just figured out how the pins on the pro micro are meant to go... It turns out al the calculators and QMK tools are using the on-board controller's pin names, not the pinouts of the actual boards. If we consider the ATMEGA32U4-MU's pinout mapped to the pro micro's physical pins, we get:
+
+![image](https://github.com/user-attachments/assets/92243c2a-ca1c-40a6-a3c9-37ab01c71637)
+
+Much easier!
+
 
 
 
