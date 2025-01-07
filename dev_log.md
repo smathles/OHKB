@@ -46,6 +46,11 @@ Just figured out how the pins on the pro micro are meant to go... It turns out a
 
 Much easier!
 
+## 2025/01/07
+Did a lot of research today WRT I2C vs UART serial connections, and which is better for connecting the keyboard halves. Decided on UART serial.
+
+Drafted up a few (incorrect) base wiring diagrams and ordered a lot of new parts (reset switch, switches, screws, etc).
+
 
 
 
