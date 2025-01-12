@@ -51,6 +51,14 @@ Did a lot of research today WRT I2C vs UART serial connections, and which is bet
 
 Drafted up a few (incorrect) base wiring diagrams and ordered a lot of new parts (reset switch, switches, screws, etc).
 
+## 2025/01/12
+Printed off some test pieces 2 days ago and test fitted the pro micro an audio jack until they fitted. No reset button yet, so that will remain to be seen.
+
+Also I *forgot about the magnets* connecting the two halves! Not sure if I have any 4x2mm circular magnets left, will have to order them tomorrow.
+
+Printed off left and right plates in PLA today. Will make first keyboard iteration using just these, but will upgrade to metal in future I think.
+
+Photos to come.
 
 
 
