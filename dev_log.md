@@ -60,6 +60,8 @@ Printed off left and right plates in PLA today. Will make first keyboard iterati
 
 Photos to come.
 
-
+## 2025/03/09
+Yeah, kinda gave up making a log lol.
+rip
 
 
