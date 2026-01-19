@@ -64,4 +64,8 @@ Photos to come.
 Yeah, kinda gave up making a log lol.
 rip
 
+## 2026/01/19
+Classic me got a bit distracted.
+Anyawy.
+Got a bit too clever and lost my keyboard.json file, and wiring diagrams. I guess this is what happens when you forget about a project for a year. Ah well.
 
