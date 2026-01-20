@@ -1,0 +1,87 @@
+{
+    "keyboard_name": "OHKB",
+    "manufacturer": "smathles",
+    "url": "https://github.com/smathles/OHKB",
+    "maintainer": "smathles",
+    "usb": {
+        "pid": "0x0000",
+        "vid": "0xFEED",
+        "device_version": "0.0.1"
+    },
+    "matrix_pins": {
+        "cols": [
+            "B5",
+            "B4",
+            "E6",
+            "D7",
+            "C6",
+            "D4"
+        ],
+        "rows": [
+            "F6",
+            "F7",
+            "B1",
+            "B3",
+            "B2",
+            "B6"
+        ]
+    },
+    "diode_direction": "COL2ROW",
+    "split": {
+        "enabled": true,
+        "matrix_pins": {
+            "right": {
+                "cols": [
+                    "B5",
+                    "B4",
+                    "E6",
+                    "D7",
+                    "C6",
+                    "D4",
+                    "D0",
+                    "D1",
+                    "D2"
+                ],
+                "rows": [
+                    "F6",
+                    "F7",
+                    "B1",
+                    "B3",
+                    "B2",
+                    "B6"
+                ]
+            }
+        },
+        "serial": {
+            "pin": "D3"
+        }
+    },
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "features": {
+        "bootmagic": false,
+        "mousekey": true,
+        "extrakey": true,
+        "command": true
+    },
+    "qmk": {
+        "locking": {
+            "enabled": true,
+            "resync": true
+        }
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {
+                    "TODO FIXME": [
+                        0,
+                        0
+                    ],
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        }
+    }
+}
